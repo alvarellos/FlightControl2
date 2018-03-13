@@ -1,5 +1,5 @@
-# Mark Daniel Ward
-# some data analysis about Indianapolis flights
+# Diego Diaz
+# some data analysis
 
 # imported all of the data from 2008 data set
 # of the ASA Data Expo 2009
